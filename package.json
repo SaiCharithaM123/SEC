@@ -1,0 +1,21 @@
+{
+  "name": "sec-adv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "book.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiCharithaM123/SEC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SaiCharithaM123/SEC/issues"
+  },
+  "homepage": "https://github.com/SaiCharithaM123/SEC#readme"
+}
